@@ -331,6 +331,7 @@ htmlspecialchars()
  4. Rate Limiting: Consider implementing rate limiting for API endpoints
  5. HTTPS: Use HTTPS in production for secure data transmission
  License
+ 6.Feel free to modify and distribute according to your needs.
 This project is open source. Feel free to modify and distribute according to your needs.
  Support
  For issues and questions:
